@@ -40,6 +40,7 @@ Após a execução do artefato, o malware iniciou o processo de sequestro de dad
 *Figura 2: Execução bem-sucedida do @WanaDecryptor@.exe e exibição da tela de resgate.*
 
 ![Figura 3](assets/03-encrypted-files-proof.png)
+
 *Figura 3: Impacto direto no sistema de arquivos: documentos sequestrados e renomeados com a extensão .wncry.*
 
 ---
